@@ -1,0 +1,9 @@
+{
+	"name": "ruach-adf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "14f03bd1-051a-40ed-aba6-c93c4f3d54da",
+		"tenantId": "16b422d6-08a9-4d1a-9613-0a6bb291ad44"
+	}
+}
